@@ -35,10 +35,7 @@
 
 - UIKit
 - AVFoundation
-
----
-### What I Learned:
-- 
+  
 ---
 
 ## How To Use
